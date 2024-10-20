@@ -1,0 +1,43 @@
+ASSIGNMENT 2
+
+CH5020
+
+Ganji Penchala Kalyan Chakravarthi
+
+DA23C007
+
+October 16, 2024
+
+Question 1
+
+If a hypothesis is rejected at a particular significance level, can it be accepted
+at a higher level of significance? When increasing the level of significance, is
+the confidence interval becoming broader or narrower?
+
+No, a hypothesis cannot be accepted at a higher level of significance if it is rejected
+at a specific significance level. This is because increasing the significance threshold (α)
+makes it easier to reject the null hypothesis rather than accept it.
+
+Additionally, when the level of significance is increased, the corresponding confidence
+interval becomes narrower. A higher α results in a lower confidence level (1 − α), leading
+to a tighter interval around the estimate.
+
+Question 2
+
+Find the degrees of freedom (dof) in T-distribution such that P (Z > 2.086404) =
+P (Tdof > 2.5). Why is the value corresponding to the T-distribution higher
+than the Z value? [5]
+
+Given:
+
+From the standard Z table,
+
+P (Z > 2.086404) = P (Tdof > 2.5)
+
+P (Z > 2.086404) = 0.01847
+
+We need to find the degrees of freedom (dof) for the T-distribution such that:
+
+P (Tdof > 2.5) = 0.01847
+
+
